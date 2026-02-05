@@ -1,6 +1,6 @@
 # pure-ai- GLM4.7
 
-# ｜满血 GLM4.7 免费用，可免费注册申请 Key 调用，支持openClaw调用
+# ｜满血 GLM4.7 免费用，免费注册API Key调用，支持openClaw调用
 
 面向开发者与 AI 爱好者的免费模型访问入口。   API Key申请地址 https://pureai.shop    提供「满血 GLM4.7」模型服务，当前阶段免费开放；支持免费申请 API Key，直接调用，欢迎大家体验和交流！
 
