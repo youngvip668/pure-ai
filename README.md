@@ -1,7 +1,7 @@
-# pure-ai- GLM4.7 + 超多的api编码模型渠道
+# pure-ai- GLM4.7 + 超多的API编码模型渠道-Symbio Model
 
 # ｜满血 GLM4.7 公益，免费注册API Key，支持通过openClaw调用
-新站地址：地址 [公益 Coding](https://model.symbio.com.cn/)
+新站地址：地址 [Symbio Model](https://model.symbio.com.cn/)
 
 面向开发者与 AI 爱好者的免费模型访问入口。   API Key申请地址 [公益 Coding](https://pureai.shop)    提供「满血 GLM4.7」模型服务，免费开放；欢迎大家体验和交流！
 
